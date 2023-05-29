@@ -1,1 +1,1 @@
-## Stanford Machine Learning Speacialization
+## Stanford Machine Learning Specialization
